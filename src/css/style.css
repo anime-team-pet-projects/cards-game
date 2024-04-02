@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  position: relative;
+}
+
+#timer {
+  position: absolute;
+  top: 50%;
+  right: 100px;
+  font-size: 48px;
+}

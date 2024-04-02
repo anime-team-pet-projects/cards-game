@@ -1,0 +1,23 @@
+{
+  "name": "threeboilerplate",
+  "version": "1.0.0",
+  "description": "The Three.js boilerplate that I'm using in my Tutorials.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Wael Yasmina",
+  "license": "ISC",
+  "dependencies": {
+    "gsap": "^3.12.5",
+    "socket.io-client": "^4.7.5",
+    "three": "^0.163.0"
+  },
+  "devDependencies": {
+    "@parcel/config-default": "^2.4.0",
+    "buffer": "^6.0.3",
+    "parcel": "^2.7.0",
+    "parcel-reporter-static-files-copy": "^1.3.4"
+  }
+}
